@@ -1,2 +1,2 @@
 # AdmobDemo_Android
-Admob mediation thirdparth network demo
+Admob mediation thirdparty network demo
