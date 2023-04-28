@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mbridge.msdk.oversea:mbjscommon:16.0.31@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3bc0d6904755f7fc6f5474dae3b653ac/transformed/mbjscommon-16.0.31/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3bc0d6904755f7fc6f5474dae3b653ac/transformed/mbjscommon-16.0.31/jars/libs/classes-2.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3bc0d6904755f7fc6f5474dae3b653ac/transformed/mbjscommon-16.0.31/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3bc0d6904755f7fc6f5474dae3b653ac/transformed/mbjscommon-16.0.31/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

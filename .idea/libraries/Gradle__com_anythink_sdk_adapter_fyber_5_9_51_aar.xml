@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.anythink.sdk:adapter-fyber:5.9.51@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/88b61573f7e43cb220126a857f747226/transformed/adapter-fyber-5.9.51/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/88b61573f7e43cb220126a857f747226/transformed/adapter-fyber-5.9.51/jars/libs/anythink_network_fyber.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/88b61573f7e43cb220126a857f747226/transformed/adapter-fyber-5.9.51/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/88b61573f7e43cb220126a857f747226/transformed/adapter-fyber-5.9.51/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.anythink.sdk:adapter-facebook:5.9.51@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b35e075434424b46f379e700aecdc0ae/transformed/adapter-facebook-5.9.51/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b35e075434424b46f379e700aecdc0ae/transformed/adapter-facebook-5.9.51/jars/libs/anythink_network_facebook.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b35e075434424b46f379e700aecdc0ae/transformed/adapter-facebook-5.9.51/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b35e075434424b46f379e700aecdc0ae/transformed/adapter-facebook-5.9.51/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

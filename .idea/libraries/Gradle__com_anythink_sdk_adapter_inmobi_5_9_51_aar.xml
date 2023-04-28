@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.anythink.sdk:adapter-inmobi:5.9.51@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/31a24cb1b293d8be7aaffbd69ec6bafb/transformed/adapter-inmobi-5.9.51/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/31a24cb1b293d8be7aaffbd69ec6bafb/transformed/adapter-inmobi-5.9.51/jars/libs/anythink_network_inmobi.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/31a24cb1b293d8be7aaffbd69ec6bafb/transformed/adapter-inmobi-5.9.51/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/31a24cb1b293d8be7aaffbd69ec6bafb/transformed/adapter-inmobi-5.9.51/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

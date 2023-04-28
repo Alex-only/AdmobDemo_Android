@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.anythink.sdk:adapter-applovin:5.9.51@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6d9ab467af575a93f9a78ec22dba8131/transformed/adapter-applovin-5.9.51/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6d9ab467af575a93f9a78ec22dba8131/transformed/adapter-applovin-5.9.51/jars/libs/anythink_network_applovin.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6d9ab467af575a93f9a78ec22dba8131/transformed/adapter-applovin-5.9.51/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6d9ab467af575a93f9a78ec22dba8131/transformed/adapter-applovin-5.9.51/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

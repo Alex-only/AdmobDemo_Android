@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.anythink.sdk:adapter-mintegral-nonchina:5.9.51@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4e9df780b0f9f67d75033ffeaad4533b/transformed/adapter-mintegral-nonchina-5.9.51/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4e9df780b0f9f67d75033ffeaad4533b/transformed/adapter-mintegral-nonchina-5.9.51/jars/libs/anythink_network_mintegral_nonchina.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4e9df780b0f9f67d75033ffeaad4533b/transformed/adapter-mintegral-nonchina-5.9.51/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4e9df780b0f9f67d75033ffeaad4533b/transformed/adapter-mintegral-nonchina-5.9.51/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

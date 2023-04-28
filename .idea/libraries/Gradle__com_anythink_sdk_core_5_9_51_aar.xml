@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.anythink.sdk:core:5.9.51@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5afe1cfe5b22ffa7b2c2f160465701d1/transformed/core-5.9.51/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5afe1cfe5b22ffa7b2c2f160465701d1/transformed/core-5.9.51/jars/libs/anythink_core.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5afe1cfe5b22ffa7b2c2f160465701d1/transformed/core-5.9.51/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5afe1cfe5b22ffa7b2c2f160465701d1/transformed/core-5.9.51/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

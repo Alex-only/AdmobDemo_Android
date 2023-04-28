@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.anythink.sdk:splash:5.9.51@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b0d72e097c67a978376e06d68f9d6a92/transformed/splash-5.9.51/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b0d72e097c67a978376e06d68f9d6a92/transformed/splash-5.9.51/jars/libs/anythink_splash.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b0d72e097c67a978376e06d68f9d6a92/transformed/splash-5.9.51/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b0d72e097c67a978376e06d68f9d6a92/transformed/splash-5.9.51/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
